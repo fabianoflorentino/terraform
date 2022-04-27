@@ -1,6 +1,5 @@
 FROM alpine:3.15.4 as build
 
-
 LABEL maintainer="Fabiano Florentino"
 LABEL email="fabianoflorentino@outlook.com"
 LABEL terraform version="1.1.9"
